@@ -55,7 +55,7 @@
 
 ---
 
-# CCC Urban Sketch Workshop: Tin House Street Houses
+# CCC Urban Sketch Workshop: Tiny Tin House
 
 ## Tutorial 1: Basic
 
