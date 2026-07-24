@@ -9,7 +9,7 @@
 * 本 repo 為 tutorial 1、tutorial 2、tutorial 3 的範例程式，請搭配 openprocessing tutorials 使用。*
 * 投影片：https://github.com/ccc-2026-summer/ccc-materials/tree/main/L1-L2
 
----
+
 
 ## Tutorial 1: 以細小、重複的形狀鋪陳鐵皮表面，練習用規律與隨機交錯出層次。
 
@@ -55,7 +55,7 @@
 
 ---
 
-## CCC Urban Sketch Workshop: Tin House Street Houses
+# CCC Urban Sketch Workshop: Tin House Street Houses
 
 ## Tutorial 1: Basic
 
