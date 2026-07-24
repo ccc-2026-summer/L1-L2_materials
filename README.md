@@ -60,7 +60,6 @@
 ## Tutorial 1: Basic
 
 Description: Use small, repeated shapes to build the tin surface and practice layering regularity with variation.
-![basic](image/basic.gif)
 
 
 EN version: https://openprocessing.org/@u176241/2983362
@@ -80,7 +79,6 @@ Content:
 
 Description: Extend the rectangle layout from T1 and study the rhythm of corrugated sheets and their folded light and shadow.
 
-![layout](image/image-layout.png)
 
 
 
@@ -96,7 +94,6 @@ Content:
 
 Description: Add `noise` to create organic rust spreading and the effect of rust forming in recessed areas.
 
-![noise](image/image-noise.png)
 
 EN version: https://openprocessing.org/@u176241/2983620
 
